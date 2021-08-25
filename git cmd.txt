@@ -5,4 +5,6 @@
 5.git log => to check changes while we are commiting in stage area.
 6.git config --global user.name "Shrat" =>  author name in git repo for all git repo infuture those repo are make they have also the same name in that repo.
 6.git config --global "shratik@gmail" => to change the email 
- 
+
+
+ 7.
