@@ -1,5 +1,5 @@
-1.git status to check the status on git.
-2.git init to render the git in that folder.
+1.git status => to check the status on git.
+2.git init => to render the git in that folder.
 3.git add .  => they add working die=rectory to staging area on github check if want git status
 4.git commit -m "version 1"=> for changes in file and update on staged file which is we r statge on add cmd this is syntax and version 1 is descpritaion/message for which version has beeen changes/update.
 5.git log => to check changes while we are commiting in stage area.
