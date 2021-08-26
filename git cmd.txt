@@ -7,5 +7,8 @@
 6.git config --global "shratik@gmail" => to change the email 
 
 
- 7.
+ 7.git diff utility.txt =>
+ this cmd says the which changes you made in the utility txt file  
+
+ git video 2 and video 3
 E:\git repo\git cmd.txt
