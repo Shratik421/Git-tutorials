@@ -11,3 +11,10 @@ this cmd says the which changes you made in the utility txt file
 9.git add -A => stages all files.
 10.git add . => stages new and modified , without delted.
 11. git add -u stages modified and delted , without new
+12.git clone => to clone the repo from the github to make changes and add thw new version.
+if git clone githubrepo just use to dot . to not go into the folder files r download before the folder.
+13. ls -la => says give all the lists file into the folder hidden file also.
+14.touch .gitignore => make the git ignore file in that folder.
+
+15. branching 
+  git branch

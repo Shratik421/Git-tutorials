@@ -1,2 +1,22 @@
 this is my git seconds version control system.
  sucessfully added the rspa key to the lapi form the help of stackoverflow.
+
+ full step to add file on github.
+ 1.git status.
+ 2.git init.
+ 3.git ls -la
+ 4.git add .
+ 5.git commit -m "changes something ".
+ 6.git status.
+ for push your files into the github use .
+ 7.git remote add origin "repo lik from github in ssh key format.
+ 8.git push -u origin master
+ for checking the branch 
+ 9.git branch
+ for making the copy of git file make branch of git  for an example of login system
+ 10.git branch login-system 
+now login system filr was created .
+for checking the branch
+11.git branch
+to switched in login system  just type .
+12.git checkout login-system
