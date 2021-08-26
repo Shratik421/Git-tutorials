@@ -5,9 +5,9 @@
 5.git log => to check changes while we are commiting in stage area.
 6.git config --global user.name "Shrat" =>  author name in git repo for all git repo infuture those repo are make they have also the same name in that repo.
 6.git config --global "shratik@gmail" => to change the email 
-
-
- 7.git diff utility.txt =>
- this cmd says the which changes you made in the utility txt file  
-
- git chekcout . =>says is u r go on last commit.
+7.git diff utility.txt =>
+this cmd says the which changes you made in the utility txt file  
+8.git chekcout . =>says is u r go on last commit.
+9.git add -A => stages all files.
+10.git add . => stages new and modified , without delted.
+11. git add -u stages modified and delted , without new
