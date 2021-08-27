@@ -20,3 +20,8 @@ for checking the branch
 11.git branch
 go to login system /to switched in login system  just type .
 12.git checkout login-system
+ 
+ 
+ all code in index.txt 
+ git cmd.txt
+ on this files. 
