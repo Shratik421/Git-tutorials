@@ -16,5 +16,21 @@ if git clone githubrepo just use to dot . to not go into the folder files r down
 13. ls -la => says give all the lists file into the folder hidden file also.
 14.touch .gitignore => make the git ignore file in that folder.
 
-15. branching 
-  git branch
+ branching 
+15.  git branch => to check u r on which branch.
+16. git branch login system => to go on loginsystem branch .
+now check ur on which branch
+17.git branch
+now make a file in that folder to upload on github.
+then add file on git .
+18. git add .
+19. git git commit -m "added login system"
+now we added login system firl on the folder and commited it on git now push on github .
+20. git push origin login-system.
+now file go on github now change the branch and comeback to the our master branch.
+21.git status.
+22.git checkout master
+now we r in master branch.
+
+now if u want to merge the branch in one branch then simply type.
+23.git merge login-system

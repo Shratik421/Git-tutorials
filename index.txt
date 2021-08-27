@@ -18,5 +18,5 @@ this is my git seconds version control system.
 now login system filr was created .
 for checking the branch
 11.git branch
-to switched in login system  just type .
+go to login system /to switched in login system  just type .
 12.git checkout login-system
