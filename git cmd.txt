@@ -34,3 +34,16 @@ now we r in master branch.
 
 now if u want to merge the branch in one branch then simply type.
 23.git merge login-system
+ now all files of login system merge in master branch.
+ now we r in master branch.
+
+
+deleting branch 
+ 24.git branch -d login-system 
+ to deleted the branch 
+ now check login-system branch deleted or not .
+
+
+ to delete branch from the remote directory.
+ 25.git push origin --delete login-system 
+ 
